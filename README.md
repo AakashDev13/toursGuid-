@@ -7,10 +7,7 @@ A RESTful API backend for managing tour and travel information. This project is 
 - RESTful API architecture
 - Tour data management
 - Organized backend structure
-- Development workflow using Nodemon
-
-## Tech Stack
-
+- Development workflow using NodemonTech Stack
 - **Node.js**
 - **Express.js** (if configured in the project)
 - **Database:** As configured in the project
@@ -40,7 +37,7 @@ npm install
 ### 3. Start the development server
 
 ```bash
-npx nodemon server.js
+ nodemon app.js
 ```
 
 If your entry-point file is named `app.js` or `index.js`, replace `server.js` with the correct filename.
