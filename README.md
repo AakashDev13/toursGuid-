@@ -9,7 +9,7 @@ A RESTful API backend for managing tour and travel information. This project is 
 - Organized backend structure
 - Development workflow using Nodemon
 
-## 🛠️Tech Stack
+## Tech Stack
 
 - **Node.js**
 - **Express.js** (if configured in the project)
