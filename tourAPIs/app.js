@@ -131,12 +131,12 @@ app.delete('/api/v1/tours/:id', deleteTour);
 //         });
 //     }
 
-//     if(id > tours.length) {
-//         res.status(404).json({
-//             status : 'fail',
-//             message : 'Ivalid ID'
-//         });
-//     }
+    // if(id > tours.length) {
+    //     res.status(404).json({
+    //         status : 'fail',
+    //         message : 'Ivalid ID'
+    //     });
+    // }
     
     
 //     res.status(200).json({
